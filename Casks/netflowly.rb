@@ -1,6 +1,6 @@
 cask "netflowly" do
-  version "1.0.1"
-  sha256 "ce2ad5493b9c97c5a848ab9d1f66a9025420a8d79d44ede3276cffce54542bba"
+  version "1.0.2"
+  sha256 "c149d41962f55d8fce6ad40df638833ed2d321eb4cc226a7f4b1243d66d73c39"
 
   url "https://github.com/bubua12/homebrew-netflowly/releases/download/v#{version}/Netflowly-#{version}.dmg"
   name "Netflowly"
